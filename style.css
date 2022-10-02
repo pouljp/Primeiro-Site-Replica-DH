@@ -10,9 +10,10 @@ p{
     
 }
 .imagem{
-    width: 100px;
-    background-color: black;
-    
+    width: 80px;
+    margin: auto;
+    display: block;
+    justify-content: center;    
     
 }
 
@@ -22,3 +23,9 @@ body{
     margin: auto;
     width: 500px;
 }
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  }
