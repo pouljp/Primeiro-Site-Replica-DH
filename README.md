@@ -1,6 +1,6 @@
-# Replicado Site da Alura 
+# Replicando Site da Alura 
 
-##Front end
+#Front end
 * HTML 
 * CSS 
 * JS 
