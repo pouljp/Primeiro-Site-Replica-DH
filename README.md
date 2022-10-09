@@ -2,7 +2,7 @@
 
 
 # Sobre Projeto:
-Aplicando material da Aula do Alura : HTML e CSS: praticando HTML/CSS.
+Aplicando material apresentado no Curso: HTML e CSS 
 
 Utilizando o Figma como modelo e replicando no HTML e CSS.
 
